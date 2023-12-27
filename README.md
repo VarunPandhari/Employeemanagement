@@ -21,4 +21,9 @@ You may also see any lint errors in the console.
 
 https://658bc11db8d6352a75d201c9--spectacular-moxie-10dce0.netlify.app/
 
+###  Login credentials for the webite
+
+email : admin@gmail.com
+password : 123
+
 
